@@ -1,0 +1,181 @@
+{ from_MIPT 
+   { relative 
+       { from_street 
+           { city_friend }
+           { drive_car 
+               { poor 
+                   { shaurman }
+                   { bomj }
+               }
+               { taxist }
+           }
+       }
+       { noone_tag }
+   }
+   { student 
+       { animal 
+           { doing_matan 
+               { doing_physos 
+                   { doing_linal 
+                       { Labnic 
+                           { useless 
+                               { doing_teorver 
+                                   { DIRECTORATE 
+                                       { making_food 
+                                           { Best proger of wild west 
+                                               { cleaner }
+                                               { Ded32 }
+                                           }
+                                           { from_canteen 
+                                               { barista }
+                                               { cashier }
+                                           }
+                                       }
+                                       { working in dormitory 
+                                           { Yasha }
+                                           { Comenda }
+                                       }
+                                   }
+                                   { Lecturer 
+                                       { Bogdanov }
+                                       { Goriaynov }
+                                   }
+                               }
+                               { OIP 
+                                   { Burtcev }
+                                   { Mershavka }
+                               }
+                           }
+                           { halyava 
+                               { old 
+                                   { Alyabieva }
+                                   { Veryovochkin }
+                               }
+                               { sladkiy_pirozhok 
+                                   { Ponomaryov }
+                                   { Lilienberg }
+                               }
+                           }
+                       }
+                       { teaching_106 
+                           { Chubarov }
+                           { Lenyuk }
+                       }
+                   }
+                   { kind 
+                       { pydoras 
+                           { Bulygin }
+                           { Holin }
+                       }
+                       { MEGA_HOLIYVA 
+                           { Ovchos }
+                           { Filatov }
+                       }
+                   }
+               }
+               { tall 
+                   { young 
+                       { Petrovich }
+                       { Scubach }
+                   }
+                   { Barabanshchikov }
+               }
+           }
+           { stray 
+               { lived in GK 
+                   { Poltorashka }
+                   { Docen }
+               }
+               { black 
+                   { Bobic }
+                   { Lord }
+               }
+           }
+       }
+       { from_RT 
+           { cringe 
+               { BM_tyan 
+                   { from FIVT 
+                       { Pavel }
+                       { Sasha }
+                   }
+                   { Ekateryna_Cherv }
+               }
+               { buryat 
+                   { vseross_economica 
+                       { Vera_tyan }
+                       { Bogdan_Kul }
+                   }
+                   { Batukhan }
+               }
+           }
+           { from_106 
+               { existant 
+                   { from_attic 
+                       { sonic_dash }
+                       { ghost }
+                   }
+                   { from 334 room 
+                       { girl 
+                           { SuperProger 
+                               { banned_in_CS 
+                                   { He knows Putin 
+                                       { Amadey }
+                                       { Vanya Savinov }
+                                   }
+                                   { Sanya_Z }
+                               }
+                               { Dmitriy_S }
+                           }
+                           { beautiful 
+                               { Ksenia_M }
+                               { wearing_glasses 
+                                   { Nadya }
+                                   { Marya_Egor }
+                               }
+                           }
+                       }
+                       { Dima_Glob }
+                   }
+               }
+               { russian 
+                   { from_Mozyar 
+                       { from_Kazakhstan 
+                           { Vlad_(author) }
+                           { Egor_G }
+                       }
+                       { Nikita_Ts }
+                   }
+                   { buryat 
+                       { short 
+                           { bearded 
+                               { quiet 
+                                   { blonde 
+                                       { from_Moscow 
+                                           { Nikita_Shch }
+                                           { Marina }
+                                       }
+                                       { dyed 
+                                           { Alexei_S }
+                                           { Kris_Sh }
+                                       }
+                                   }
+                                   { Radmir_K }
+                               }
+                               { not_from_Moscow 
+                                   { Sergei_Ts }
+                                   { Sanya_D }
+                               }
+                           }
+                           { girl 
+                               { Denis }
+                               { Masha }
+                           }
+                       }
+                       { Sanya_K }
+                   }
+               }
+           }
+       }
+   }
+}
