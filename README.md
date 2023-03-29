@@ -1,4 +1,4 @@
-# Akinator - MIPT assistant
+# Akinator - MIPT assistant 
 #### My own small voice assistant & friend who doesn't let me get bored. He can help you find a person at Phystech.
 #### You may say it sounds great, but I suggest you try it...
 #### Real binary tree with music and a voice assistant.
